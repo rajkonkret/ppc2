@@ -1,0 +1,3 @@
+import pakiet
+
+pakiet.przywitaj()
